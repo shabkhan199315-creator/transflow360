@@ -1,0 +1,8 @@
+{
+  "name": "Transflow360.AI",
+  "description": "A comprehensive showcase of Gemini AI capabilities, featuring interactive demos for text generation, visual intelligence, and automated workflows.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
